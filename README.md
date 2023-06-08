@@ -1,0 +1,2 @@
+# --gitinore_template
+test
